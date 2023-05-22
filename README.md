@@ -1,4 +1,4 @@
-# Deep Learning Course
+# Deep Learning RU Course
 
 This repository contains exercises and projects completed as part of the Deep Learning course at Reichman University. The course covers various topics in deep learning, including:
 
